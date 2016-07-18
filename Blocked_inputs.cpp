@@ -1,4 +1,16 @@
-//Chaelgutierrez
+/**************************************************************************
+*	Michael Jyms Gutierrez												  *
+*	This small file disable the user to function of device				  *
+*	like using the keyboard, the ports.. inshot diabling all			  *	
+*	input of the PC... This  will only works on Windows Operating System  *
+*																		  *
+*                                                                         *
+*	Compile this Cpluplus code with DevC++                                * 
+*	And Run the exe file as Admin to see the effect                       *
+***************************************************************************/
+
+
+
 #include <stdio.h> // Use original header of C Language
 #include <windows.h>// Windows user32
 #include <conio.h>
