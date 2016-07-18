@@ -1,5 +1,5 @@
 //Chaelgutierrez
-#include <stdio.h> // pwede iostream but mas ok if original header ng c ang gamit
+#include <stdio.h> // Use original header of C Language
 #include <windows.h>// Windows user32
 #include <conio.h>
 #include <string.h>
