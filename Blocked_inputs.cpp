@@ -1,6 +1,6 @@
 //Chaelgutierrez
 #include <stdio.h> // pwede iostream but mas ok if original header ng c ang gamit
-#include <windows.h>//para sa windows user library
+#include <windows.h>//Windows 
 #include <conio.h>
 #include <string.h>
 #include <iostream>
